@@ -3,7 +3,7 @@
 I’m a Technical Writer, Developer Relations professional, and Community Builder using words, research, and strategy to help developers and organizations communicate and build better with technology.
 
 🛠 What I’m currently doing...
-- 👩🏾‍💻 Working as a **Technical PMM & Developer Relations Intern** at **Microsoft, for the Inspektor Gadget Ecosystem, on the Traceloop Gadget** through The Linux Foundation’s LFX Mentorship.
+- 👩🏾‍💻 Working as a **Technical PMM & Developer Relations Intern** for the Inspektor Gadget Ecosystem, on the Traceloop Gadget through The Linux Foundation’s LFX Mentorship.
 - 🧠 Exploring cloud-native observability, eBPF, and Kubernetes debugging tools from a user-first and contributor-driven perspective.
 - 📝 Leading documentation and content for the **Inspektor Gadget** ecosystem—simplifying complex tooling, accelerating onboarding, and improving contributor experience.
 - 💡 Shaping go-to-market strategy, positioning, and a 12-week execution roadmap for **Traceloop**.
